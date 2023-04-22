@@ -23,4 +23,4 @@ story link-https://public.tableau.com/views/economicfreedom_16812008292160/Story
 
 
 
-video demonstaration link-https://drive.google.com/file/d/1bYw_alCSnXlwMHkgxnnETa336TKClH3Q/view?usp=drivesdk
+video demonstaration link-https://drive.google.com/file/d/1bYw_alCSnXlwMHkgxnnETa336TKClH3Q/view?usp=sharing
